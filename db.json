@@ -8,7 +8,7 @@
     },
     {
       "id": 2,
-      "username": "cliente1@gmail.com",
+      "username": "cliente@gmail.com",
       "password": "cliente123",
       "rol": "cliente"
     }
